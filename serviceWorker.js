@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cache-v2';
+const CACHE_NAME = 'cache_2025_105-v3';
 const urlsToCache = [
     './',
     './icon192.png',
